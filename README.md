@@ -3,6 +3,7 @@
 
 ## 1. Requirements
 - RDX-Core (https://github.com/Redm-Extended-PT/rdx_core)
+- RDX-Personal Inventory (https://github.com/ValiantCraven27/rdx_personal_inventory
 
 ## 2. Install
 - add to resources folder
